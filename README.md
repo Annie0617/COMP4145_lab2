@@ -1,3 +1,5 @@
+# COMP4145_lab2
+
 # MSFT Trading Strategy Dashboard
 
 The dashboard displays the five-year MSFT golden-cross backtest in three pages:
